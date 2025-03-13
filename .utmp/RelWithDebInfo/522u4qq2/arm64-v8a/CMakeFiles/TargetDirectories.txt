@@ -1,0 +1,8 @@
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/thomasbaslios/Desktop/Virtual Reality /Grabbables-and-Shootables/.utmp/RelWithDebInfo/522u4qq2/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
